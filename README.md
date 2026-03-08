@@ -38,7 +38,7 @@ A multi-stage process designed to handle removals safely:
 
 ## System Requirements
 - **Root Permissions:** Magisk, KernelSU, or SuperSU is strictly required. Non-rooted environments are not supported.
-- **Operating System:** Android 8.0 (API Level 26) or higher.
+- **Operating System:** Android 7.0 (API Level 24) or higher.
 
 ## Installation Instructions
 1. Navigate to the [Releases](https://github.com/ainzvoldigoad1/BayBloater-Release/releases) section.
